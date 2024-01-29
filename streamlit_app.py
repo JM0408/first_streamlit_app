@@ -44,4 +44,4 @@ streamlit.header("The fruit load list contains:")
 streamlit.dataframe(my_data_rows)
 
 # allow user to edit another box
-add_my_fruit = jackfruit
+add_my_fruit = jackfruit "insert to fruit_load_list";
